@@ -1,5 +1,7 @@
 # R-TYPE
 
+This project aims to recreate the R-Type game and add a multiplayer mode to it.  
+
 ## Build
 
 ### Build on linux
