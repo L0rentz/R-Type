@@ -2,6 +2,8 @@
 
 This project aims to recreate the R-Type game and add a multiplayer mode to it.  
 
+https://youtu.be/imlIwO6Lep0  
+
 ## Build
 
 ### Build on linux
