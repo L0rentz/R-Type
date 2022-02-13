@@ -2,9 +2,9 @@
 
 This project aims to recreate the R-Type game and add a multiplayer mode to it in C++.  
 
-https://youtu.be/imlIwO6Lep0  
-
-<img src="https://raw.github.com/L0rentz/R-Type/master/examples/example1.gif"/> 
+<img src="https://raw.github.com/L0rentz/R-Type/master/examples/example1.gif"/>  
+  
+[![](http://img.youtube.com/vi/imlIwO6Lep0/0.jpg)](http://www.youtube.com/watch?v=imlIwO6Lep0 "R-Type")  
 
 ## Build
 
